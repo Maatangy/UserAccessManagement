@@ -1,4 +1,4 @@
-# Leucine Project Submission
+# User Management System
 
 The **User Access Management System** is a web-based application built to streamline user access requests within an organization. Designed with role-based access control, this system enables different functionalities based on user roles—**Employee**, **Manager**, and **Admin**. 
 
